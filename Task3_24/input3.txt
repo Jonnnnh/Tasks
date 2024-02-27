@@ -1,0 +1,5 @@
+Chocolate 100
+Marmalade 80
+Lollipops 60
+Truffles 150
+Marshmallows 70

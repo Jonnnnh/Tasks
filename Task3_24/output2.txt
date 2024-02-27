@@ -1,0 +1,5 @@
+Selected candies:
+Truffles
+Chocolate
+Lollipops
+Remaining money: 0

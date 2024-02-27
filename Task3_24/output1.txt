@@ -1,0 +1,4 @@
+Selected candies:
+Truffles
+Chocolate
+Remaining money: 50

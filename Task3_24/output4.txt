@@ -1,0 +1,5 @@
+Selected candies:
+Шоколад
+Мармелад
+Леденцы
+Remaining money: 0
